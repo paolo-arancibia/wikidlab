@@ -130,6 +130,7 @@ wfLoadSkin( 'Vector' );
 
 # Load extension
 wfLoadExtension( 'SimpleMathJax' );
+wfLoadExtension( 'Cite' );
 
 # End of automatically generated settings.
 # Add more configuration options below.
